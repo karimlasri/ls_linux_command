@@ -10,22 +10,22 @@ python3 ls.py [-l] path
 
 Examples :
 Let us assume that a folder that has the path '/path/to/folder' contains two files named 'some_file' and 'another_file'.
-The command :
-	python3 ls.py /path/to/folder/
+The command :\n
+	python3 ls.py /path/to/folder/\n
 
-Returns :
-    	some_file
-    	another_file
+Returns :\n
+    	some_file\n
+    	another_file\n
 
-The command :
-	python3 ls.py /path/to/folder/som
+The command :\n
+	python3 ls.py /path/to/folder/som\n
 
-Returns :
-    some_file
+Returns :\n
+    	some_file\n
 
-And the command :
-	python3 ls.py -l /path/to/folder
+And the command :\n
+	python3 ls.py -l /path/to/folder\n
 
-Returns
-	rwxr--r--  2017-12-15 17:44 some_file
+Returns :\n
+	rwxr--r--  2017-12-15 17:44 some_file\n
 	rwxr-xr-x  2017-12-15 17:44 another_file
