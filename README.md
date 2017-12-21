@@ -29,3 +29,7 @@ python3 ls.py -l /path/to/folder
 Returns :
 rwxr--r--  2017-12-15 17:44 some_file
 rwxr-xr-x  2017-12-15 17:44 another_file
+
+
+To run unit tests please type in command prompt :
+python3 unit_test.py
